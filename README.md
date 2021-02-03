@@ -5,6 +5,6 @@ i'm sorry i can't include all the credits but there's so many that it would just
   
 ## Instructions
 1. clone the directory to your PC
-2. extract DabModdedServerJars-master.zip5
+2. extract DabModdedServerJars-main.zip
 3. put the .jar files into your `.minecraft/mods/` directory (if you're on windows you can find it by pressing windows key+r and then typing in `%appdata%/.minecraft`)
 4. delete the README.md file
